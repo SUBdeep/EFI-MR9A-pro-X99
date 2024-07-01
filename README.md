@@ -13,16 +13,19 @@ Memory 16GB      [ Machinist 2133,mhz]
 What works?
 
 - Video
-- Audio ( works but needs a codec patch to X99 platform)
+- Audio
 - All USB ports including 3.0 from back panel and 1 port in the front
+- bluetooth BCM4360CS2
+- wi-fi Bcm94360CS2
+
+
 
 What does not work?  
 
-- Wi-fi. (not configured)
-- Bluethooth (not configured)
-
-
 If you want to use you have to change the serial number, MLB, Rom and SystemUUID on config.playlist
+
+
+
 
 ##This UFI was built according to the Oficial guide from Dortania##
 
